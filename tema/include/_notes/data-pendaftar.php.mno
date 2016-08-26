@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_halaman_daftar" value="name:nama_lengkap;datatype:string,name:tempat_lahir;datatype:string,name:tanggal_lahir;datatype:date,name:alamat_siswa;datatype:string,name:sekolah_asal;datatype:string,name:status;datatype:int" />
+</info>
